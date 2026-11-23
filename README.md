@@ -10,20 +10,13 @@ Este proyecto tiene como finalidad comprender y aplicar los conceptos básicos d
 
 Aprender a utilizar Git y GitHub para organizar archivos, registrar modificaciones y compartir proyectos entre varios integrantes.
 
-## 3. Integrantes
-
-1. Integrante 1: [anahi vinanzaca]
-2. Integrante 2: [carla narvaez]
-3. Integrante 3: [joseph villamar]
-4. Integrante 4: [danna jimenez]
-
-## 4. Herramientas utilizadas
+## 3. Herramientas utilizadas
 
 - Git
 - GitHub
 - Visual Studio Code
 
-## 5. Actividades realizadas
+## 4. Actividades realizadas
 
 - Creación de un repositorio público.
 - Creación y modificación de archivos.
@@ -31,6 +24,6 @@ Aprender a utilizar Git y GitHub para organizar archivos, registrar modificacion
 - Publicación de los cambios en GitHub.
 - Trabajo colaborativo entre los integrantes.
 
-## 6. Conclusión
+## 5. Conclusión
 
 Git y GitHub permiten mantener un registro organizado de los cambios realizados en un proyecto. Además, facilitan la colaboración entre los integrantes y permiten consultar las modificaciones realizadas.
